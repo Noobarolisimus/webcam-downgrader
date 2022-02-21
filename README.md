@@ -1,6 +1,6 @@
 ### Используется:<br/>
 
-**python v3.9.2**<br/>
+**python v3.9.2** <i>(ТОЛЬКО x64. x84 не подходит)</i><br/>
 [**pyvirtualcam v0.8.0**](https://pypi.org/project/pyvirtualcam/)<br/>
 [**openCV v4.5.4.58**](https://pypi.org/project/opencv-python/)<br/>
 
