@@ -10,6 +10,6 @@
 
 ### Шоб всё работало, надо прописать вот это:<br/>
 <i>
-pip install pyvirtualcam<br/>
-pip install opencv-python
+pip3 install pyvirtualcam<br/>
+pip3 install opencv-python
 </i>
